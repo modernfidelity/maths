@@ -113,3 +113,8 @@
 - **A Level Mathematics for AQA Student Book 1 (AS/Year 1)** by Stephen Ward and Paul Fannon (Cambridge University Press, June 2017) ISBN-13: 9781316644225
 - **A Level Mathematics for AQA Student Book 2 (Year 2)** by Stephen Ward and Paul Fannon (Cambridge University Press, November 2017) ISBN-13: 9781316644256
 
+### General 
+
+- https://en.wikibooks.org/wiki/LaTeX/Mathematics
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+- https://docs.mathjax.org/en/latest/input/tex/index.html#tex-and-latex-support
