@@ -73,8 +73,8 @@ Workings >
 |                   |                                  |
 | -------------     | -------------                    |
 | $2x^2 + 12x -3 $  | $\equiv a(x +p)^2 + q$           |
-|                   | $ = a(x^2 + 2xp + p^2) + q$      |
-|                   | $ = ax^2 + 2apx + ap^2 + q$      |
+|                   | = $a(x^2 + 2xp + p^2) + q$      |
+|                   | = $ax^2 + 2apx + ap^2 + q$      |
 
 *Compare coefficients*
 
